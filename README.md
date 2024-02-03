@@ -4,7 +4,7 @@
 </p>
 
 <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/Spacecentre/achievements?format=svg&limit=3&raw=true" width="350" />
+    <img src="https://api.vaunt.dev/v1/github/entities/Spacecentre/achievements?format=svg&limit=3&raw=true" width="250" />
 </p>
 
 - 👀 I’m interested in uhmmm everything from web development to machine learning to microcontroller programming!
