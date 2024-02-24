@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akkilesh-A
 
-My Skills
+<strong style="font-size:45px">My Skills<strong>
 
 Front End Frameworks<br>
 
