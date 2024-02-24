@@ -3,10 +3,10 @@
 My Skills
 
 Front End Frameworks<br>
-(https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)
 
 Back End Framewokrs
-https://skillicons.dev/icons?i=nodejs,npm,express,postgres
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,postgres)
 
 Design and Others
 [![My Skills](https://skillicons.dev/icons?i=notion,figma,git,github)]
