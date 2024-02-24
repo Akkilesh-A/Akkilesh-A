@@ -2,11 +2,11 @@
 
 My Skills
 
-Front End Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)]
+Front End Frameworks<br>
+(https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)
 
 Back End Framewokrs
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,postgres)]
+https://skillicons.dev/icons?i=nodejs,npm,express,postgres
 
 Design and Others
 [![My Skills](https://skillicons.dev/icons?i=notion,figma,git,github)]
