@@ -1,9 +1,9 @@
 <h1>👋 Hi, I’m @Akkilesh-A</h1>
 
-<div align="center" float="left">
+<div float="left">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
 
 <strong style="font-size:45px">My Skills<strong>
 
