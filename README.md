@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Akkilesh-A
 
+<p align="center">
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
+</p>
+
 <strong style="font-size:45px">My Skills<strong>
 
 Front End Frameworks<br>
@@ -20,7 +24,7 @@ API's<br>
 
 Achievements and Badges<br>
 <p>
-    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="100" />
+    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="150" />
     <a href="https://api.badgr.io/public/assertions/4I39DxpuS0SecNwWquafDw?identity__email=akkilalagar05%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4I39DxpuS0SecNwWquafDw/image"></a>
 </p>
 
