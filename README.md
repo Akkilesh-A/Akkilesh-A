@@ -3,7 +3,6 @@
 <div float="left">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
 
 <strong style="font-size:45px">My Skills<strong>
 
@@ -23,7 +22,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=postman)
 
-
 - Achievements and Badges<br>
 <p>
     <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="150" />
@@ -31,4 +29,6 @@
 </p>
 
 <img src="https://api.vaunt.dev/v1/github/entities/Spacecentre/achievements?format=svg&limit=3&raw=true" width="600" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
 
