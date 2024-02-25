@@ -1,8 +1,9 @@
 <h1>👋 Hi, I’m @Akkilesh-A</h1>
 
-<p align="center">
+<div align="center" float="left">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
+</div>
 
 <strong style="font-size:45px">My Skills<strong>
 
@@ -22,7 +23,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=postman)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
 
 - Achievements and Badges<br>
 <p>
