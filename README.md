@@ -8,7 +8,7 @@
 
 - Front End Frameworks<br>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,tailwind)
 
 - Back End Framewokrs<br>
 
