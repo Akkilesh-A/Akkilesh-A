@@ -12,7 +12,7 @@
 
 - Back End Framewokrs<br>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,postgres,flask,sql)
+![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,postgres,flask,sql,next)
 
 - Design and Others<br>
 
