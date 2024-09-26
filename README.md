@@ -28,5 +28,3 @@
 
 <img src="https://api.vaunt.dev/v1/github/entities/Spacecentre/achievements?format=svg&limit=3&raw=true" width="600" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkilesh-A&layout=compact&theme=vision-friendly-dark)
-
