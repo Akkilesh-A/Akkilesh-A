@@ -29,6 +29,11 @@
 
 <img src="https://api.vaunt.dev/v1/github/entities/Spacecentre/achievements?format=svg&limit=3&raw=true" width="600" />
 
-![](https://github.com/user-attachments/assets/d0ad4fb7-3d05-48a6-98e4-e9c443334419)
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/@a_akkilesh" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/akkilesh-a-620561275" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/akkilesh05" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
 
-
+<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/akkilalagaq">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
